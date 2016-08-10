@@ -1,0 +1,54 @@
+
+
+h1 {
+	color:#8585ad;
+}
+.text_centered {
+	text-align: center;
+}
+.text_thin {
+	font-weight: 100;
+}
+.text_background{
+	background: #1a1a1a;
+}
+.text_font {
+	font-family:'Cormorant SC', serif;
+	color: #0d0d0d;
+}
+.text_color {
+	color: #f2f2f2;
+}
+body {
+	background-image:url("http://i.imgur.com/YpMHJ41.jpg");
+	background-repeat: repeat-x;
+	cursor:url("http://i.imgur.com/yitgkT6.png"), auto;
+	font-family: courier;color: #0d0d0d;
+}	
+.text_size {
+	font-size:150px;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.carousel img {
+    min-width: 100%;
+}
